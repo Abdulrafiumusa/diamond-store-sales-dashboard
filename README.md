@@ -35,7 +35,7 @@ The dashboard reveals **key trends, performance insights, and recommendations** 
 - `README.md` – Project documentation.
 
 ## 📬 Connect
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/abdulrafiu-musa/)]
+- **LinkedIn:** [](https://www.linkedin.com/in/abdulrafiu-musa/)]
 - **GitHub Portfolio:** [GitHub Profile]
 
 ---
